@@ -1,0 +1,2 @@
+# krakenomics
+Just Tokenomics
